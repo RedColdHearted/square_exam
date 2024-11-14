@@ -4,6 +4,7 @@
 ```bash
 git clone https://github.com/RedColdHearted/square_exam.git
 cd square_exam
+python -m venv .venv
 .venv/Scripts/Activate.ps1
 pip install -r requirements.txt
 ```
@@ -12,6 +13,7 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/RedColdHearted/square_exam.git
 cd square_exam
+python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
