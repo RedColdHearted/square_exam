@@ -8,7 +8,7 @@ cd square_exam
 pip install -r requirements.txt
 ```
 
-### On windows
+### On linux
 ```bash
 git clone https://github.com/RedColdHearted/square_exam.git
 cd square_exam
